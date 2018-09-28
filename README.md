@@ -31,10 +31,10 @@ Flashing ESP8266
 
 	If ESP8266 is not in flash mode while uploading sketch ,it will show errors like this
 
-An error occurred while uploading the sketch
-warning: espcomm_sync failed
-error: espcomm_open failed
-error: espcomm_upload_mem failed
+• An error occurred while uploading the sketch
+• warning: espcomm_sync failed
+• error: espcomm_open failed
+• error: espcomm_upload_mem failed
 
 Working
 
@@ -62,9 +62,9 @@ Host machine(Linux PC)
 
 TEST PASSED
 
-SSID loss                 passed
-TCP loss                  passed
-RS232 loss                passed
-Client machine restart    passed
-Host machine restart      passed
-WiFi Module restart       passed
+    • SSID loss                 passed
+    • TCP loss                  passed
+    • RS232 loss                passed
+    • Client machine restart    passed
+    • Host machine restart      passed
+    • WiFi Module restart       passed
